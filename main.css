@@ -1,0 +1,25 @@
+body {
+    background-image: url(.//imag.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  #container{
+    width:400px;
+    height: 800px;
+    background-color: gray;
+    margin-top: 50px;
+    margin-left: calc((100%-400px)/2);
+  }
+  #FormContainer{
+    padding: 20px;
+    width: 600px;
+  }
+  .nameLine{
+    display: inline-block;
+  }
+  .nameLineText{
+    color: aliceblue;
+    font-size: 18px;
+  }
+ 
